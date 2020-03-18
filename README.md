@@ -7,5 +7,5 @@ Kullanıcı dostu ara yüzü ile
 
 "yerli uygulama" uygulamaları
 
-Tüm uygulamalar için tıklayınız..
+Tüm uygulamalar linki..
 https://play.google.com/store/apps/developer?id=Yerli+Uygulama
