@@ -14,10 +14,10 @@ Tüm uygulamalara [burdan](https://play.google.com/store/apps/developer?id=Yerli
 
 ## iletişim
 
-Uygulama geliştiricisi ile [burdan](yerli.uygulama@gmail.com) iletişime geçebilirsiniz..
+Uygulama geliştiricisi ile [burdan](mailto:yerli.uygulama@gmail.com?subject=[iletişim]%20Source%20Han%20Sans) iletişime geçebilirsiniz..
 
 ## Gizlilik Politikası (Privacy Policy)
 
-[Tıklayınız..](https://yerliuygulama.blogspot.com/2019/05/gizlilik-politikasi-privacy-policy.html?m=1)
+Uygulama gizlilik politikasını [burdan](https://yerliuygulama.blogspot.com/2019/05/gizlilik-politikasi-privacy-policy.html?m=1) inceleyebilirsiniz..
 
 
