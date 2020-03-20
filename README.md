@@ -1,7 +1,9 @@
 # Yerli Uygulama
 
 Günlük hayatta kullanacağınız mobil uygulamalar..
+
 Kolay ve pratik kullanımı
+
 Kullanıcı dostu ara yüzü ile mobil uygulamalar hizmetinizde... 
 
 ## Uygulamalar
