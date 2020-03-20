@@ -14,7 +14,7 @@ Tüm uygulamalara [burdan](https://play.google.com/store/apps/developer?id=Yerli
 
 ## iletişim
 
-Uygulama geliştiricisi ile [burdan](mailto:yerli.uygulama@gmail.com?subject=[iletişim]%20Source%20Han%20Sans) iletişime geçebilirsiniz..
+Uygulama geliştiricisi ile [burdan](mailto:yerli.uygulama@gmail.com?subject=[iletişim]) iletişime geçebilirsiniz..
 
 ## Gizlilik Politikası (Privacy Policy)
 
