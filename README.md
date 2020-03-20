@@ -12,7 +12,7 @@ Google Play'deki tüm YERLİ UYGULAMA uygulamalarını inceleyebilirsiniz.
 
 Tüm uygulamalara [burdan](https://play.google.com/store/apps/developer?id=Yerli+Uygulama) ulaşabilirsiniz.
 
-## iletişim
+## İletişim
 
 Uygulama geliştiricisi ile [burdan](mailto:yerli.uygulama@gmail.com?subject=[iletişim]) iletişime geçebilirsiniz..
 
